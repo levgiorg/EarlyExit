@@ -1,0 +1,2 @@
+from .seperate_function import seperate_networks,test_networks
+from .seperated_model import SegmentedEarlyExitNetwork
